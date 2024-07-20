@@ -1,0 +1,25 @@
+div {
+    width: 230px;
+    height: 297px;
+    border: 2px solid;
+    overflow-x: scroll;
+    padding-top: 9px;
+    padding-left: 12px;
+    border-color: #8383834D;
+    float: left;
+}
+@font-face {
+    font-family: chemi fonti;
+    src: url("fonti/Inter-VariableFont_slnt\,wght.ttf");
+}
+p {
+    font-family: chemi fonti;
+    font-size: 12px;
+    font-weight: 400;
+}
+img {
+    width: 560px;
+    height: 646.53px;
+    float: right;
+    margin-top: 9px;
+}
